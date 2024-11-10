@@ -73,20 +73,22 @@ Well but how this works ? Put it simply
 2. Government uses those taxes to run the the state
 3. But what if government spends more than they receive from taxes ?
 4. They will borrow money of course ! By [issuing bonds](https://www.statista.com/statistics/201881/holders-of-the-us-public-debt/)
-5. Government always increases keeps growing the debt + needs to pay back interest.
-6. Central bank will come and “helps” those countries that needs more money by buying their bonds. Wait, but where central bank finds money for that ? They have money printer, so do not worry [there is infinity amount of cash at he federal reserve](https://x.com/patrickbetdavid/status/1635616070286573569).
+5. Government is always in debt + needs to pay back interest.
+6. Central bank will come and “helps” those countries that needs more money by buying their bonds. Wait, but where central bank finds money for that ? They have money printer, so do not worry [there is infinity amount of cash at the federal reserve](https://x.com/patrickbetdavid/status/1635616070286573569).
 
-What just happened ? Well you just used/injected money that you **never had** into the economy and use them to fund whatever government program.
+I am simplifying here. But concept stands. Government injected new borrowed money into the economy and used them to fund whatever excess government expenditure.
 
 ## Now what ?
 
-As you could see government loves to spend more money than they tax. But is there a really such a big problem ? **Well yes !** Do you remember the ever expanding government debt chart ? With such a huge debt, interest rate is ballooning up to the point that in first time in history, interest rate on borrowed money is now [so big](https://www.crfb.org/blogs/interest-costs-just-surpassed-defense-and-medicare) ****that exceeds expenditure of whole Military budget.
+As you could see government loves to spend more money than they tax. But is there a really such a big problem ? **Well yes !** Do you remember the ever expanding government debt chart ? With such a huge debt, interest rate is **ballooning up** to the point that in first time in history, interest rate on borrowed money is now [SO BIG](https://www.crfb.org/blogs/interest-costs-just-surpassed-defense-and-medicare) ****that exceeds expenditure of whole Military budget.
 
 ![image.png](image%201.png)
 
 ## Are governments broke ?
 
-When your second biggest expenditure is interest rate alone and it is projected to increase even more, technically “yes they are”. That debt + interest needs to be payed.  But how can you pay for it when your country is still in deficit needs to borrow even more ? Well central bank can always print money from thin air ! But that leads to even **more inflation!** If this cycle does not break very soon than we are on path to debt spiral and “**hyper inflation**”.
+When your second biggest expenditure is interest rate alone and it is projected to increase even more, technically “yes they are”. That debt + interest needs to be payed.  But how can you pay for it when your country is still in deficit needs to borrow even more ? If this is not definition of broke than I do not know what is.
+
+Well central bank can always print money from thin air ! But that leads to even **more inflation!** If this cycle does not break very soon than we are on path to debt spiral and “**hyper inflation**”.
 
 ![image.png](image%202.png)
 
@@ -96,7 +98,9 @@ When your second biggest expenditure is interest rate alone and it is projected 
 
 ![image.png](image%204.png)
 
-Things may not be as bad as in turkey but you can certainly expect next inflationary wave/s due to money printing that they can not avoid. Debt needs to be paid and you taxes are just not enough.
+Lets think about it, your purchasing power was just sliced to half from previous year. And this  repeated 3 consecutive years, year after year. ₺1000 in 2020 is now worth only ~180.
+
+Things may not be as bad as in turkey but you can certainly expect next inflationary wave/s due to money printing that they can not avoid. Debt needs to be paid and your taxes are just not enough.
 
 ## The only way out
 
